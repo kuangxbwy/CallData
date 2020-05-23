@@ -11,7 +11,9 @@
            1）随机生成通话数据，使用Flume+Kafka的组合进行采集并存入Hbase之中，加入协处理器进行优化
            2）使用MapReduce读取Hbase中的数据，并分解计算之后得到最终的统计数据存入MySQL
            3）后端集成SSM框架，前端使用ECharts。读取数据并进行展示。
- 项目整体架构图：![](https://imgchr.com/i/YjqCkD)
- 前端展示图：![](https://imgchr.com/i/YjLY2d)
+ 项目整体架构图：
+ ![](https://imgchr.com/i/YjqCkD)
+ 前端展示图：
+ ![](https://imgchr.com/i/YjLY2d)
  
  
