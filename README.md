@@ -15,7 +15,7 @@
  ## 项目整体架构图：
  ![](https://imgchr.com/i/Nj2VQf)
  ## 详细架构图：
- ![](https://imgchr.com/i/Nj2FJI)
+ ![](https://s1.ax1x.com/2020/07/03/Nj2VQf.md.png)
 ## 效果图1：
  ![](https://imgchr.com/i/Nj2ESP)
  ## 效果图2：
